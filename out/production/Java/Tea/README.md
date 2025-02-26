@@ -1,5 +1,5 @@
 <h1>Identifying Tea</h1>
-<hr>
+
 <p>
 
 Blind tea tasting is the skill of identifying a tea by using only your senses of smell and taste.
